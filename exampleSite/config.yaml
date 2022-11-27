@@ -7,7 +7,7 @@ title: GIE Joel
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: GIE Joel
         description: Example description
         weight: 1
     zh-cn:
@@ -57,7 +57,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: TES Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             enabled: true
             local: true
