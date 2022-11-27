@@ -1,4 +1,4 @@
-baseurl: https://63833a1627e28343d4f48c70--playful-kashata-86c620.netlify.app/
+baseurl: https://playful-kashata-86c620.netlify.app/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -7,7 +7,7 @@ title: GIE Joel
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: GIE Joel
         description: Example description
         weight: 1
     zh-cn:
