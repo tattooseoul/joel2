@@ -2,12 +2,12 @@ baseurl: https://playful-kashata-86c620.netlify.app/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: GIE Joel
+title: Test
 
 languages:
     en:
         languageName: English
-        title: GIE Joel
+        title: Test
         description: Example description
         weight: 1
     zh-cn:
@@ -57,7 +57,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Test Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             enabled: true
             local: true
