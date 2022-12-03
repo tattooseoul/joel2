@@ -2,13 +2,10 @@
 author: Hugo Authors
 title: Présentation
 date: 2019-03-08
-description: A brief guide to setup KaTeX
+description: «Je ne sais pas parler de ma peinture, c'est elle qui parle. C'est moi qui la crée. Je me mets devant une toile et je peins en fonction de mon état, de mes sensations, des aléas de la vie. Tout est mental.»
 weight: -100
 math: true
 ---
-
-«Je ne sais pas parler de ma peinture, c'est elle qui parle. C'est moi qui la crée. Je me mets devant une toile et je peins en fonction de mon état, de mes sensations, des aléas de la vie. Tout est mental.»
-<!--more-->
 
 ### Revue de presse
 
