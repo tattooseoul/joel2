@@ -1,20 +1,14 @@
 ---
-title: about
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+author: Hugo Authors
+title: Présentation
+date: 2019-03-08
+description: A brief guide to setup KaTeX
 weight: -100
-aliases:
-  - about-us
-  - about-hugo
-  - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
-menu:
-    main: 
-        weight: -90
-        params:
-            icon: user
+math: true
 ---
+
+«Je ne sais pas parler de ma peinture, c'est elle qui parle. C'est moi qui la crée. Je me mets devant une toile et je peins en fonction de mon état, de mes sensations, des aléas de la vie. Tout est mental.»
+<!--more-->
 
 ### Revue de presse
 
@@ -29,17 +23,3 @@ Une peinture sans concession, instinctive.
 « Ma peinture, c’est la seule chose qui a de l’importance, elle me permet de tenir debout, elle contient toutes mes joies, toutes mes attentes, tous mes manques, toutes mes souffrances. C’est aussi une remise en cause, j’y consacre mes nuits et mes jours, un tableau peut me prendre des heures ou des semaines, au besoin, je racle, je recommence, jusqu’à obtenir l’impression que je veux faire passer, à la fin je suis vidé, exténué mais heureux. »
 
 Une œuvre originale et forte à découvrir.
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
