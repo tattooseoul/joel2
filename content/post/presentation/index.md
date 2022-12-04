@@ -8,7 +8,7 @@ weight: -100
 math: true
 menu:
     main: 
-        weight: -1
+        weight: -95
         params:
             icon: link
 ---
