@@ -101,6 +101,8 @@ https://www.ladepeche.fr/article/2013/10/04/1723288-albi-joel-gie-expose-au-cast
 
 ### Maison de la citoyenneté, Carmaux
 
+![](Gieartiste2018.jpg)
+
 Joël Gie avait à peine 3 ans lorsqu'il trébucha sur une palette de peintre couverte de belles couleurs.
 
 Le nez dans les pigments, le petit Joël avait trouvé sa voie et sa passion, il sera artiste peintre.
