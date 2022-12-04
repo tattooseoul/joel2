@@ -5,6 +5,11 @@ date: 2019-03-08
 description: «Je ne sais pas parler de ma peinture, c'est elle qui parle. C'est moi qui la crée. Je me mets devant une toile et je peins en fonction de mon état, de mes sensations, des aléas de la vie. Tout est mental.»
 weight: -100
 math: true
+menu:
+    main: 
+        weight: -1
+        params:
+            icon: link
 ---
 
 ### Revue de presse
