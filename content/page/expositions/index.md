@@ -10,7 +10,7 @@ menu:
     main: 
         weight: -90
         params:
-            icon: user
+            icon: album
 ---
 
 ![Exposition Castelviel 2013](castelviel-2013.jpg)  ![Exposition Castelviel 2019](castelart-2019.jpg)

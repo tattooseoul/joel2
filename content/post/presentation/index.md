@@ -10,7 +10,7 @@ menu:
     main: 
         weight: -95
         params:
-            icon: link
+            icon: user
 ---
 
 ### Revue de presse
