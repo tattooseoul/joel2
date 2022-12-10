@@ -1,8 +1,9 @@
 ---
-title: "Série 1"
-description: "This is an example category"
-slug: "serie1"
+title: Example Category
+description: A description of this category
 image: "promenade-sur-la-jetee.jpg"
+
+# Badge style
 style:
     background: "#2a9d8f"
     color: "#fff"

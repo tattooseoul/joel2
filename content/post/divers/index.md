@@ -1,6 +1,7 @@
 ---
 title: Divers (30x90) 
 slug: "/tableaux/divers"
+image: "divers-D3.jpg"
 categories:
     - divers
 menu:
