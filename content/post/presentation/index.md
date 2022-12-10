@@ -37,13 +37,13 @@ Déjà six ans depuis la dernière exposition de Joël Gie dans cette belle gale
 
 Comme il y a six ans, Joël m’a dit, tu ne parles pas de moi et il a ajouté, tu ne parles pas de toi non plus, tu parles seulement de ma peinture.
 
-Je ne suis pas critique d’art, mais connaissant bien la peinture de Joël, je vais essayer quand même de vous parler de son travail et de vous donner quelques clefs de compréhensions.
+Je ne suis pas critique d’art, mais connaissant bien la peinture de Joël, je vais tout de même essayer de vous parler de son travail et de vous donner quelques clefs de compréhensions.
 
-Tout d’abord, vous pouvez être étonné de la quantité des œuvres exposés, 93 tableaux, travail de 6 ans et plus, exposition voulue et agencée par Joël comme une œuvre d’art en soi.
+Tout d’abord, vous pouvez être étonné de la quantité des œuvres exposées, 93 tableaux, travail de 6 ans et plus, exposition voulue et agencée par Joël comme une œuvre d’art en soi.
 
 Il faut se laisser porter par l’ensemble et puis aller vers le détail, chaque toile ayant sa propre force.
 
-Ce soir peut être vous ne pourrez pas tout découvrir alors n’hésitez pas à revenir car Joël expose tout le mois de Novembre.
+Ce soir, peut être, vous ne pourrez pas tout découvrir, alors n’hésitez pas à revenir car Joël expose tout le mois de Novembre.
 
 Quand on rentre, on est interpellés par la présence de personnages énigmatiques, de corps nus repliés sur eux-mêmes, dansant seul ou à deux.
 

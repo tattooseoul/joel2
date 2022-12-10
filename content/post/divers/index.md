@@ -1,6 +1,8 @@
 ---
 title: Divers (30x90) 
 slug: "/tableaux/divers"
+categories:
+    - divers
 menu:
     main: 
         weight: -75

@@ -1,6 +1,8 @@
 ---
 title: Série 2 (30x90)/(20x60) 
 slug: "/tableaux/serie2"
+categories: 
+    - serie2
 menu:
     main: 
         weight: -80

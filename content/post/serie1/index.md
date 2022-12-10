@@ -1,12 +1,15 @@
 ---
 title: Série 1
 slug: "/tableaux/serie1"
+categories: 
+    - serie1
 menu:
     main: 
         weight: -83
         params:
             icon: palette
 ---
+
 
 
 ![Mer démontée](mer-demontee.jpg)  
