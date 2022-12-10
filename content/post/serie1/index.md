@@ -4,6 +4,7 @@ slug: "/tableaux/serie1"
 image: "promenade-sur-la-jetee.jpg"
 categories: 
     - serie1
+    - test
 menu:
     main: 
         weight: -83
