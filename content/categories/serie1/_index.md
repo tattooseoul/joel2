@@ -1,9 +1,8 @@
 ---
-title: Example Category
-description: A description of this category
+title: "Test"
+description: "This is an example category"
+slug: "test"
 image: "promenade-sur-la-jetee.jpg"
-
-# Badge style
 style:
     background: "#2a9d8f"
     color: "#fff"
