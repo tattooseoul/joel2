@@ -1,7 +1,7 @@
 ---
 title: Autres 
 slug: "/tableaux/autres"
-image: "divers-D3.jpg"
+image: "monsieur-oki.jpg"
 categories:
     - Divers
 menu:
