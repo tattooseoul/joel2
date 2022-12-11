@@ -6,7 +6,7 @@ categories:
     - Migrants
 menu:
     main: 
-        weight: -73
+        weight: -72
         params:
             icon: palette
 ---

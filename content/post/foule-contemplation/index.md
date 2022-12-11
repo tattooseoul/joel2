@@ -3,7 +3,7 @@ title: Foule / Contemplation
 slug: "/tableaux/foule-contemplation"
 image: "foule-contemplation-A1.jpg"
 categories:
-    - foule-contemplation
+    - Foule-contemplation
 menu:
     main: 
         weight: -74
