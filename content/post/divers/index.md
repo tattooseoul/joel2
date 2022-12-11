@@ -1,6 +1,6 @@
 ---
 title: Divers (30x90) 
-slug: "/tableaux/divers"
+slug: "/tableaux/divers-30-90"
 image: "divers-D3.jpg"
 categories:
     - divers
