@@ -3,7 +3,7 @@ title: Impressions rouges 60x120
 slug: "/tableaux/impressions-rouges"
 image: "divers-D3.jpg"
 categories:
-    - impressions-rouges
+    - Impressions Rouges
 menu:
     main: 
         weight: -73
@@ -11,9 +11,9 @@ menu:
             icon: palette
 ---
 
-![Ref D1](divers-D1.jpg) ![Ref D2 Col privée](divers-D2.jpg) ![Ref D3](divers-D3.jpg)
+![Ref R1](impressions-rouges-R1.jpg) ![Ref R2](impressions-rouges-R2.jpg) ![Ref R3](impressions-rouges-R3.jpg)
 
-![Ref D4 Col privée](divers-D4.jpg) ![Ref D5](divers-D5.jpg) 
+![Ref R4](impressions-rouges-R4.jpg) ![Ref R5](impressions-rouges-R5.jpg) ![Ref R6](impressions-rouges-R6.jpg)
 
-![Ref D6](divers-D6.jpg) ![Ref D7](divers-D7.jpg) ![Ref D8](divers-D8.jpg)
+![Ref R7](impressions-rouges-R7.jpg) ![Ref R8](impressions-rouges-R8.jpg) ![Ref R9 Col privée](impressions-rouges-R9.jpg)
 
