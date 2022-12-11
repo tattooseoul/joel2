@@ -1,7 +1,7 @@
 ---
 title: Foule / Contemplation 
 slug: "/tableaux/foule-contemplation"
-image: "divers-D3.jpg"
+image: "foule-contemplation-A1.jpg"
 categories:
     - foule-contemplation
 menu:
