@@ -32,7 +32,15 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - name: featured_image
+        label: Featured image
+        widget: object
+        fields: 
+          - {name: src, label: Image, widget: image}
+          - {name: alt, label: Alt text, widget: string}
+          - {name: title, label: Title, widget: string} 
   - name: "pages" # Used in routes, e.g., /admin/collections/pages
     label: "Pages" # Used in the UI
     folder: "content/page" # The path to the folder where the documents are stored
