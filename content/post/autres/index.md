@@ -2,6 +2,7 @@
 title: Autres 
 slug: "/tableaux/autres"
 image: "monsieur-oki.jpg"
+date: 2022-03-03
 categories:
     - Divers
 menu:

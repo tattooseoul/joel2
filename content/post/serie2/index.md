@@ -2,6 +2,7 @@
 title: Série 2 (30x90)/(20x60) 
 slug: "/tableaux/serie2"
 image: "personnages-20x60-P7.jpg"
+date: 2022-12-01
 categories: 
     - serie2
 menu:

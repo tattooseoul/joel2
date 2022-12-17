@@ -2,6 +2,7 @@
 title: Divers (30x90) 
 slug: "/tableaux/divers-30-90"
 image: "divers-D3.jpg"
+date: 2022-11-30
 categories:
     - divers
 menu:

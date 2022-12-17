@@ -2,9 +2,11 @@
 title: Série 1
 slug: "/tableaux/serie1"
 image: "promenade-sur-la-jetee.jpg"
+date: 2022-12-10
 categories: 
     - serie1
     - test
+weight: -90    
 menu:
     main: 
         weight: -83

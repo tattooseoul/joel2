@@ -2,7 +2,7 @@
 title: Corps
 slug: "/tableaux/corps"
 image: "corps-couche.jpg"
-categories:
+date: 2022-01-02
     - Corps
 menu:
     main: 

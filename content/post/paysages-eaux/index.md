@@ -2,6 +2,7 @@
 title: Paysages et eaux
 slug: "/tableaux/paysages-eaux"
 image: "paysage.jpg"
+date: 2022-08-10
 categories:
     - Paysages et eaux
 menu:

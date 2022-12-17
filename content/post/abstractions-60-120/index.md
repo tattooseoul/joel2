@@ -2,6 +2,7 @@
 title: Abstractions 60x120 
 slug: "/tableaux/abstrations-6-120"
 image: "abstractions-1.jpg"
+date: 2022-07-10
 categories:
     - Abstractions
 menu:

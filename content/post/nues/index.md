@@ -2,6 +2,7 @@
 title: Nues 
 slug: "/tableaux/nues"
 image: "nues-92-60.jpg"
+date: 2022-10-01
 categories:
     - Nues
 menu:

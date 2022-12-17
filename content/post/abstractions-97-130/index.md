@@ -2,6 +2,7 @@
 title: Abstractions 97x130 
 slug: "/tableaux/abstrations-97-130"
 image: "abstractions-cover.jpg"
+date: 2022-06-10
 categories:
     - Abstractions
 menu:

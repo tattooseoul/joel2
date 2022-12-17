@@ -2,6 +2,7 @@
 title: Foule / Contemplation 
 slug: "/tableaux/foule-contemplation"
 image: "foule-contemplation-A1.jpg"
+date: 2022-11-29
 categories:
     - Foule-contemplation
 menu:

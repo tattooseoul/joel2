@@ -2,6 +2,7 @@
 title: Assemblées 
 slug: "/tableaux/assemblees"
 image: "assemblee-2.jpg"
+date: 2022-09-27
 categories:
     - Assemblées
 menu:

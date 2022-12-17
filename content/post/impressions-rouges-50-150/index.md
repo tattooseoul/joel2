@@ -2,6 +2,7 @@
 title: Impressions rouges 50x150 
 slug: "/tableaux/impressions-rouges-50-150"
 image: "divers-D3.jpg"
+date: 2022-11-10
 categories:
     - Impressions Rouges
 menu:

@@ -2,6 +2,7 @@
 title: Impressions rouges 60x120 
 slug: "/tableaux/impressions-rouges"
 image: "divers-D3.jpg"
+date: 2022-11-25
 categories:
     - Impressions Rouges
 menu:

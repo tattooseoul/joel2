@@ -2,6 +2,7 @@
 title: Migrants
 slug: "/tableaux/migrants"
 image: "migrants-2.jpg"
+date: 2022-10-10
 categories:
     - Migrants
 menu:

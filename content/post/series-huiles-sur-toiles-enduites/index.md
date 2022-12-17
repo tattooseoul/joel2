@@ -2,6 +2,7 @@
 title: Séries huiles sur toiles enduites
 slug: "/tableaux/series-huiles-sur-toiles-enduites"
 image: "huiles-4.jpg"
+date: 2022-01-28
 categories:
     - Séries huiles sur toiles enduites
 menu:
