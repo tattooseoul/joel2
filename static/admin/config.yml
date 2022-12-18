@@ -33,9 +33,9 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Image couverture", name: "imagecover", widget: "image", optional: "true"}
+      - {label: "Image", name: "image", widget: "image", required: "false"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Image", name: "image", widget: "list", optional: "true"}
+      
   - name: "pages" # Used in routes, e.g., /admin/collections/pages
     label: "Pages" # Used in the UI
     folder: "content/page" # The path to the folder where the documents are stored
