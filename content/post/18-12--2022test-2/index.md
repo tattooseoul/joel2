@@ -9,3 +9,5 @@ featured_image:
   title: gogo
 ---
 letsgo
+
+![gogogogog](20190911_150102.jpg "gogogo")
