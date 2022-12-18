@@ -28,6 +28,7 @@ collections:
     slug: "{{day}}-{{month}}--{{year}}{{slug}}" # Filename template, e.g., DD-MM-YYYY-title.md
     nested:
       depth: 100 
+    path: "{{slug}}/index"  
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
