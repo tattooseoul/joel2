@@ -7,7 +7,7 @@ featured_image:
   src: 20190911_150102.jpg
   alt: goo
   title: gogo
-galleryImages:
+galleryImage:
   - 20190911_150102.jpg
 ---
 letsgo
