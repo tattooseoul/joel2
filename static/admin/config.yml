@@ -39,7 +39,13 @@ collections:
         name: "galleryImage"
         widget: "list"
         summary: '{{fields.image}}'
-        field: {label: Image, name: image, widget: image}
+        fields: 
+         - label: Image
+           name: image
+           widget: image
+           media_library:
+            config:
+             multiple: "true"
       
   - name: "pages" # Used in routes, e.g., /admin/collections/pages
     label: "Pages" # Used in the UI
