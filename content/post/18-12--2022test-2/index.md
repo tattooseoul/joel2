@@ -8,7 +8,6 @@ featured_image:
   alt: goo
   title: gogo
 galleryImages:
-  - 003.jpg.jpg
   - 20190911_150102.jpg
 ---
 letsgo
