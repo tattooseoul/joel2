@@ -38,9 +38,8 @@ collections:
       - label: "Gallery"
         name: "galleryImages"
         widget: "list"
-        fields:
-         - { label: "Source", name: "src", widget: "string" }
-         - { label: "Alt Text", name: "alt", widget: "string" }
+        summary: '{{fields.image}}'
+        field: {label: Image, name: image, widget: image}
       
   - name: "pages" # Used in routes, e.g., /admin/collections/pages
     label: "Pages" # Used in the UI
