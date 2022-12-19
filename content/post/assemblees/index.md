@@ -15,4 +15,4 @@ menu:
 ---
 **Ceci est un test !**
 
-![](assemblee-1.jpg) ![](assemblee-2.jpg)
+![attribuer un nom](assemblee-1.jpg) ![](assemblee-2.jpg)
