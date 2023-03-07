@@ -5,7 +5,7 @@ backend:
 publish_mode: editorial_workflow
 media_folder: "/static/media" # Folder where user uploaded files should go
 public_folder: "/media"
-site_url: https://loquacious-cuchufli-e77e18.netlify.app
+site_url: https://joelgie.com
 editor:
   preview: true
 locale: 'fr'
