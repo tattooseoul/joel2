@@ -3,7 +3,8 @@ title: Corps
 slug: "/tableaux/corps"
 image: "corps-couche.jpg"
 date: 2022-01-02
-    - Corps
+categories:
+    - corps
 menu:
     main: 
         weight: -55
