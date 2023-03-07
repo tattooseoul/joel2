@@ -5,7 +5,7 @@ layout: "archives"
 slug: "tableaux"
 menu:
     main:
-        weight: -70
+        weight: -85
         params: 
             icon: palette
 ---
