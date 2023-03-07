@@ -5,22 +5,12 @@ paginate: 5
 title: GIE Joel
 
 languages:
-    en:
-        languageName: English
+    fr:
+        languageName: Français
         title: GIE Joel
-        description: Example description
+        description: Ce site est en français
         weight: 1
-    zh-cn:
-        languageName: 中文
-        title: 演示站点
-        description: 演示说明
-        weight: 2
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: موقع تجريبي
-        description: وصف تجريبي
-        weight: 3
+
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -48,7 +38,7 @@ params:
     favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2022
+        since: 2023
         customText:
 
     dateFormat:
@@ -74,7 +64,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         disqusjs:
