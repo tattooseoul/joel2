@@ -5,7 +5,6 @@ image: "promenade-sur-la-jetee.jpg"
 date: 2022-12-10
 categories: 
     - serie1
-    - test
 weight: -90    
 menu:
     main: 
