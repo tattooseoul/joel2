@@ -178,7 +178,7 @@ params:
 
     imageProcessing:
         cover:
-            enabled: false
+            enabled: true
         content:
             enabled: true
 
