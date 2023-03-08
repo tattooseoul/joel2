@@ -25,6 +25,6 @@ menu:
 
 ![Tempête annoncée 40 x 120 (Ref B5)](tempete-annoncee.jpg) ![Ventilés 25 x 75 (Ref B7)](ventiles.jpg)
 
-![Tempête annoncée 97 x 130 (Ref B8) (col. privée)](fete-des-lampions.jpg) 
+![Fête des lampions 97 x 130 (Ref B8) (col. privée)](fete-des-lampions.jpg) 
 
 ![La Callas 81 x 121 (Ref B9) (col. privée)](la-callas.jpg)
