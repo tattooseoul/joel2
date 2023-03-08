@@ -1,0 +1,6 @@
+<header class="article-header">
+    {{- $image := partialCached "helper/image" (dict "Context" . "Type" "article") .RelPermalink "article" -}}
+   
+
+    {{ partialCached "article/components/details" . .RelPermalink }}
+</header>
