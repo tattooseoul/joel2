@@ -1,9 +1,9 @@
 ---
 slug: /tableaux/assemblees
-title: Assemblées
-date: 2022-09-27
 thumbnail: /media/mer-demontee.jpg
 image: /media/mer-demontee.jpg
+title: Assemblées
+date: 2022-09-27
 categories:
   - Assemblées
 rating: 1
@@ -13,6 +13,4 @@ menu:
     params:
       icon: palette
 ---
-**Ceci est un test !**
-
-![attribuer un nom](assemblee-1.jpg) ![](assemblee-2.jpg)
+![assemblée 2 ](assemblee-1.jpg) ![](assemblee-2.jpg)
