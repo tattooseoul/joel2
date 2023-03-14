@@ -13,4 +13,4 @@ menu:
     params:
       icon: palette
 ---
-![assemblée 2 ](assemblee-1.jpg) ![](assemblee-2.jpg)
+![assemblée 2 collection privée ](assemblee-1.jpg) ![](assemblee-2.jpg)
