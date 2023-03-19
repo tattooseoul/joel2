@@ -11,4 +11,4 @@ menu:
     params:
       icon: palette
 ---
-![](migrants-1.jpg) ![Migrants (collection privée)](migrants-2.jpg "migrant (collection privée)")
+![migrant (collection privée)](migrants-1.jpg) ![Migrants (collection privée)](migrants-2.jpg)
