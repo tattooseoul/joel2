@@ -12,6 +12,6 @@ menu:
       icon: palette
 ---
 
-![](abstractions-1.jpg) ![E6 Matin en rosée](abstractions-2.jpg) ![](abstractions-3.jpg)
+![E6](abstractions-1.jpg) ![E7 Matin en rosée](abstractions-2.jpg) ![E8 Mouvement](abstractions-3.jpg)
 ![](abstractions-4.jpg) ![](abstractions-5.jpg) ![](abstractions-6.jpg)
 
