@@ -8,10 +8,12 @@ aliases:
   - contact
 menu:
     main: 
-        weight: -90
+        weight: -85
         params:
             icon: album
 ---
+
+![Exposition Lescure Eglise Saint-Michel 2023](exposition-lescure-2023.jpg)
 
 ![Exposition Castelviel 2013](castelviel-2013.jpg)  ![Exposition Castelviel 2019](castelart-2019.jpg)
 
