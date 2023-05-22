@@ -1,6 +1,6 @@
 ---
 title: Expositions
-date: '2019-02-28'
+date: '2023-05-21'
 image: anniversaire-2.jpg
 aliases:
   - about-us
