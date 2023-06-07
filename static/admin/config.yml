@@ -2,6 +2,7 @@
 backend:
   name: git-gateway
   branch: master
+  repo: tattooseoul/joel2
 publish_mode: editorial_workflow
 media_folder: "/static/media" # Folder where user uploaded files should go
 public_folder: "/media"
